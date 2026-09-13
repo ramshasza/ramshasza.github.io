@@ -31,6 +31,10 @@
   }
   main { max-width: 22rem; width: 100%; text-align: center; }
   h1 { font-size: 1.1rem; letter-spacing: .18em; font-weight: 600; margin: 0 0 1.5rem; }
+  /* Muss vor .open stehen und lauter sein: `display: block` dort schlägt
+     sonst das `hidden`-Attribut, und bei einem kaputten Link bliebe ein
+     Knopf ohne Ziel stehen, der wie ein Weg aussieht. */
+  [hidden] { display: none !important; }
   a.open {
     display: block;
     padding: .85rem 1rem;
