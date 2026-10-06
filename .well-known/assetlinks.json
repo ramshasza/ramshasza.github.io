@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.hassdevelopment.cnasta",
       "sha256_cert_fingerprints": [
-        "7A:FA:E1:F2:03:51:0D:5A:C9:B8:B2:53:73:95:D4:AE:28:14:B5:91:D8:A0:C7:AC:DB:29:DE:AD:03:B8:32:CA"
+        "7A:FA:E1:F2:03:51:0D:5A:C9:B8:B2:53:73:95:D4:AE:28:14:B5:91:D8:A0:C7:AC:DB:29:DE:AD:03:B8:32:CA",
+        "E4:68:10:98:B6:78:CB:04:34:75:39:5F:63:2A:B6:03:51:C5:4C:3D:E2:3F:08:76:41:EB:09:1A:C6:B3:41:50"
       ]
     }
   }
